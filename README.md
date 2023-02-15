@@ -1,8 +1,9 @@
 Hi i'm SCool62 👋  
 I code stuff and play minecraft  
-I'm on an FTC robotics team  
+I'm on a robotics team  
 I play flag football and volleyball and piano  
-Pronouns: He/him https://en.pronouns.page/@scool62  
+Pronouns: He/him
+Learn more on my Carrd: https://scool62.carrd.co/
 Favs: 🟦 🍣 🍕 (But only if GF)
 
 <!---
