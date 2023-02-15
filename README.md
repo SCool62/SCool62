@@ -3,7 +3,7 @@ I code stuff and play minecraft
 I'm on a robotics team  
 I play flag football and volleyball and piano  
 Pronouns: He/him
-Learn more on <a href="https://scool62.carrd.co" target="_blank">my Carrd</a>  
+Learn more on my Carrd: https://scool62.carrd.co  
 Favs: 🟦 🍣 🍕 (But only if GF)
 
 <!---
