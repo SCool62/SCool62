@@ -1,8 +1,8 @@
 Hi i'm SCool62 👋  
-I code stuff
-I'm on a robotics team  
+I code stuff  
+I'm on a robotics team   
 I play volleyball and piano  
-Pronouns: He/him
+Pronouns: He/him  
 Rust is the best
 
 <!---
