@@ -1,10 +1,9 @@
 Hi i'm SCool62 👋  
-I code stuff and play minecraft  
+I code stuff
 I'm on a robotics team  
-I play flag football and volleyball and piano  
+I play volleyball and piano  
 Pronouns: He/him
-Learn more on my Carrd: https://scool62.carrd.co  
-Favs: 🟦 🍣 🍕 (But only if GF)
+Rust is the best
 
 <!---
 SCool62/SCool62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
