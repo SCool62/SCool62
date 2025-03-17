@@ -3,7 +3,7 @@ I code stuff
 I'm on a robotics team   
 I play volleyball and piano  
 Pronouns: He/him  
-Rust is the best
+Rust is the best 🦀
 
 <!---
 SCool62/SCool62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
